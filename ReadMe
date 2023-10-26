@@ -1,4 +1,5 @@
-1] Used only Kotlin programming language to develop the application3] Used of Web API to fetch news details(Did not use any 3rd party Library
+1] Used only Kotlin programming language to develop the application
+2] Used of Web API to fetch news details(Did not use any 3rd party Library
 like retrofit only use System APIs).
 API - https://candidate-test-data-moengage.s3.amazonaws.com/Android/news-api-feed/staticResponse.json
 3] Implemented visually interactive design to list details.
